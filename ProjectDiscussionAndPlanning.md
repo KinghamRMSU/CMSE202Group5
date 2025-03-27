@@ -3,8 +3,8 @@
 3. To keep each other accountable, we will be communicating often.
 4. Our goal for this project is to get an A.
 
-Quinn Brennan: Testing code
-Rebecca Kingham: Abstract and documentation
-Itiel Castro: Keeping us on track
-Yunxin Lu:
+Quinn Brennan: Testing code\
+Rebecca Kingham: Abstract and documentation\
+Itiel Castro: Keeping us on track\
+Yunxin Lu:\
 Peiyin Yang: Presentation slides

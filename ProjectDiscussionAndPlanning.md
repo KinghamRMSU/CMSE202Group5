@@ -6,5 +6,5 @@
 Quinn Brennan: Testing code\
 Rebecca Kingham: Abstract and documentation\
 Itiel Castro: Keeping us on track\
-Yunxin Lu:\
-Peiyin Yang: Presentation slides
+Yunxin Lu: Presentation slides\
+Peiyin Yang: README file & Presentation slides
